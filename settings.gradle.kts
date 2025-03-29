@@ -21,3 +21,7 @@ dependencyResolutionManagement {
 
 rootProject.name = "UltimateTurf"
 include(":presentation")
+include(":data")
+include(":domain")
+include(":common")
+include(":externalSDKAndLibraries")
