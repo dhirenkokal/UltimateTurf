@@ -20,4 +20,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "UltimateTurf"
-include(":app")
+include(":presentation")
