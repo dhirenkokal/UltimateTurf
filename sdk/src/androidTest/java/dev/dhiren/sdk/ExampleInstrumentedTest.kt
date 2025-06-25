@@ -1,4 +1,4 @@
-package dev.dhiren.externalsdkandlibraries
+package dev.dhiren.sdk
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

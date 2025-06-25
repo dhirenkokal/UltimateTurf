@@ -1,4 +1,4 @@
-package dev.dhiren.externalsdkandlibraries
+package dev.dhiren.sdk
 
 import org.junit.Test
 

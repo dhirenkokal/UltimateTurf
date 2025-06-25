@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "dev.dhiren.externalsdkandlibraries"
+    namespace = "dev.dhiren.sdk"
     compileSdk = 35
 
     defaultConfig {
