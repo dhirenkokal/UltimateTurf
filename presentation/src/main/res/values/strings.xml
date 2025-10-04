@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">UltimateTurf</string>
+    <string name="snack_bar_title">Title</string>
+    <string name="snack_bar_message">Message</string>
 </resources>

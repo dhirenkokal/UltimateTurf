@@ -1,4 +1,4 @@
-package dev.dhiren.domain.enums
+package dev.dhiren.common.resource.enums
 
 enum class SecurityType {
     ROOT_DETECTED,

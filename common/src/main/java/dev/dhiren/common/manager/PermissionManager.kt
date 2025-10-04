@@ -11,8 +11,7 @@ import android.net.Uri
 import android.os.Build
 import android.provider.Settings
 import androidx.core.app.ActivityCompat
-import dev.dhiren.domain.enums.RationaleType
-
+import dev.dhiren.common.resource.enums.RationaleType
 
 class PermissionManager(private val activity: Activity) {
 

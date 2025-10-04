@@ -19,11 +19,9 @@ import dev.dhiren.common.manager.AppConnectivityManager
 import dev.dhiren.common.manager.EventBusManager
 import dev.dhiren.common.manager.PermissionManager
 import dev.dhiren.common.manager.SecurityManager
+import dev.dhiren.common.resource.enums.SecurityType
 import dev.dhiren.common.resource.sealed.GlobalEvent
-import dev.dhiren.domain.enums.SecurityType
 import dev.dhiren.ultimateTurf.manager.CurrentActivityManager
-import dev.dhiren.ultimateTurf.helper.base.SecurityFailedComposeScreen
-import kotlinx.coroutines.launch
 import org.greenrobot.eventbus.Subscribe
 import org.greenrobot.eventbus.ThreadMode
 
